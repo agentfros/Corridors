@@ -34,3 +34,12 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+
+# Autosaves and logs
+/CorridorsBuild/Saved
+/CorridorsBuild/Binaries
+/CorridorsBuild/DerivedDataCache
+/CorridorsBuild/Intermediate
+/Sources
+/Staging
